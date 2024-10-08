@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <title>CITIES | Home Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>CITIES</h1>
+    <button class="btn" onclick="showTableButton()">Click Me and Show Table</button>
+    <button class="btn" onclick="addCity()">Add New City ➕</button>
+    <button class="btn" onclick="updateCity()">Update City ✏️</button>
+    <button class="btn" onclick="deleteCity()">Delete City 🗑️</button>
+
+    <table id="table">
+    <script src="script.js"></script>
+     
+        <table>
+            <thead>
+              <th>
+                <td>שם העיר</th>
+                <td>עריכה</th>
+                <td>מחיקה</th>
+              </th>
+            </thead>
+            <tbody>
+              <tr>
+                <td data-label="שם העיר">{name}</td>
+                <td data-label="עריכה">✏️</td>
+                <td data-label="מחיקה">🗑️</td>
+              </tr>
+              <tr>
+                <td data-label="שם העיר">שם העיר </td>
+                <td data-label="עריכה">✏️</td>
+                <td data-label="מחיקה">🗑️</td>
+              </tr>
+              <tr>
+                <td data-label="שם העיר">שם העיר </td>
+                <td data-label="עריכה">✏️</td>
+                <td data-label="מחיקה">🗑️</td>
+              </tr> 
+              <tr>
+                <td data-label="שם העיר">שם העיר </td>
+                <td data-label="עריכה">✏️</td>
+                <td data-label="מחיקה">🗑️</td>
+              </tr> 
+              <tr>
+                <td data-label="שם העיר">שם העיר </td>
+                <td data-label="עריכה">✏️</td>
+                <td data-label="מחיקה">🗑️</td>
+              </tr>
+            </tbody>
+          </table>
+
+
+
+</body>
+</html>

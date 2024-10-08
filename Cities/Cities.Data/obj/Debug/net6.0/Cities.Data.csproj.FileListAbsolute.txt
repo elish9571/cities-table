@@ -1,0 +1,17 @@
+C:\Users\1\Documents\שנה ב לימודים\new projects 2024\cities\Cities\Cities.Data\obj\Debug\net6.0\Cities.Data.csproj.AssemblyReference.cache
+C:\Users\1\Documents\שנה ב לימודים\new projects 2024\cities\Cities\Cities.Data\obj\Debug\net6.0\Cities.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Documents\שנה ב לימודים\new projects 2024\cities\Cities\Cities.Data\obj\Debug\net6.0\Cities.Data.AssemblyInfoInputs.cache
+C:\Users\1\Documents\שנה ב לימודים\new projects 2024\cities\Cities\Cities.Data\obj\Debug\net6.0\Cities.Data.AssemblyInfo.cs
+C:\Users\1\Documents\שנה ב לימודים\new projects 2024\cities\Cities\Cities.Data\obj\Debug\net6.0\Cities.Data.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\שנה ב לימודים\new projects 2024\cities\Cities\Cities.Data\bin\Debug\net6.0\Cities.Data.deps.json
+C:\Users\1\Documents\שנה ב לימודים\new projects 2024\cities\Cities\Cities.Data\bin\Debug\net6.0\Cities.Data.runtimeconfig.json
+C:\Users\1\Documents\שנה ב לימודים\new projects 2024\cities\Cities\Cities.Data\bin\Debug\net6.0\Cities.Data.dll
+C:\Users\1\Documents\שנה ב לימודים\new projects 2024\cities\Cities\Cities.Data\bin\Debug\net6.0\Cities.Data.pdb
+C:\Users\1\Documents\שנה ב לימודים\new projects 2024\cities\Cities\Cities.Data\bin\Debug\net6.0\Cities.Core.dll
+C:\Users\1\Documents\שנה ב לימודים\new projects 2024\cities\Cities\Cities.Data\bin\Debug\net6.0\Cities.Core.pdb
+C:\Users\1\Documents\שנה ב לימודים\new projects 2024\cities\Cities\Cities.Data\obj\Debug\net6.0\Cities.Data.csproj.CopyComplete
+C:\Users\1\Documents\שנה ב לימודים\new projects 2024\cities\Cities\Cities.Data\obj\Debug\net6.0\Cities.Data.dll
+C:\Users\1\Documents\שנה ב לימודים\new projects 2024\cities\Cities\Cities.Data\obj\Debug\net6.0\refint\Cities.Data.dll
+C:\Users\1\Documents\שנה ב לימודים\new projects 2024\cities\Cities\Cities.Data\obj\Debug\net6.0\Cities.Data.pdb
+C:\Users\1\Documents\שנה ב לימודים\new projects 2024\cities\Cities\Cities.Data\obj\Debug\net6.0\Cities.Data.genruntimeconfig.cache
+C:\Users\1\Documents\שנה ב לימודים\new projects 2024\cities\Cities\Cities.Data\obj\Debug\net6.0\ref\Cities.Data.dll
